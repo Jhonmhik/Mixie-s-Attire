@@ -1,0 +1,80 @@
+body{
+  background-color: beige;
+ 
+}
+h1{
+  color: brown;
+  font-family: cursive;
+  font-size: 100px;
+  margin-top: 1in;
+
+}
+h2{
+  color: brown;
+  font-family: cursive;
+  font-size: 50px;
+  
+}
+h3{
+  margin-left:NONE ;
+  font-family: monospace;
+}
+
+.Jersey{
+  width: 400px;
+  height: 300px;
+  padding: 26px;
+  transition: 1s;
+  box-shadow:  0 0 20px 2px rgba(0, 0, 0, .1);
+}
+
+.Jersey:hover{
+  transform: scale(1.2);
+  z-index: 2;
+  
+}
+
+.foot{
+  width: 50px;q
+  height: 50px;
+}
+.nav{
+  font-size: 100px;
+   
+}
+.active{
+ font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.nav{
+font-family: fantasy;
+}
+p{
+  color: brown;
+  font-size: 30px;
+  font-family: cursive;
+  margin-left: 1.4in;
+
+}
+.icon:hover{
+  transform: translateY(3px);
+}
+.nav-item{
+  margin-left: 1.4in;
+
+
+}
+.waw{
+  margin-right: 1in;
+}
+.foot{
+  margin-left: 2in;
+}
+.P{
+  margin-right: 1in;
+}
+.nav-item:hover{
+  transform: scale(1.2);
+  z-index: 2;
+
+}
+
